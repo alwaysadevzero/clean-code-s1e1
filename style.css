@@ -38,7 +38,9 @@
     margin: 0 auto 0;
 }
 
-.list__item-label, .list__item-input, .item__input-text {
+.list__item-label,
+.list__item-input, 
+.item__input-text {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
@@ -57,7 +59,9 @@
     list-style: none;
 }
 
-list__item-checkbox, .list__item-input, .button{
+list__item-checkbox, 
+.list__item-input, 
+.button{
     outline: none;
 }
 
@@ -86,7 +90,8 @@ list__item-checkbox, .list__item-input, .button{
     text-transform: uppercase;
 }
 
-.list__item-input, .item__input-text{
+.list__item-input, 
+.item__input-text{
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -99,7 +104,8 @@ list__item-checkbox, .list__item-input, .button{
     color: #888;
 }
 
-.list__item-input:focus, .item__input-text:focus {
+.list__item-input:focus, 
+.item__input-text:focus {
     color: #333;
 }
 
@@ -109,7 +115,8 @@ list__item-checkbox, .list__item-input, .button{
     margin: 0 0 20px;
 }
 
-.item__content .list__item-input, .item__input-text {
+.item__content .list__item-input, 
+.item__input-text {
     width: 318px;
 }
 
