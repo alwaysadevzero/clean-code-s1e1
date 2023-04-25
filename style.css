@@ -21,14 +21,14 @@
 }
 
 .header-title {
-	display: none;
+  display: none;
 }
 
 @media (max-width:768px) {
 
-	.header { 
-		text-align: center;
-	}
+  .header { 
+    text-align: center;
+  }
 
 }
 
